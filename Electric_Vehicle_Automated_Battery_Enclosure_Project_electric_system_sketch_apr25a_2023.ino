@@ -1,9 +1,7 @@
-
 #include <OneWire.h>
 #include <DallasTemperature.h>
 
 //Set up 
-
 
 const int TEMP_THRESHOLD_UPPER = 35;
 int pinTemp = 7;
