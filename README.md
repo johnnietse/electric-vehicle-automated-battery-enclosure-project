@@ -1,6 +1,6 @@
 # Battery Enclosure for Electric Vehicle
 
-## Executive Summary
+## Overview
 This project focuses on developing a battery enclosure for a set of 16 batteries in an electric vehicle. The design ensures batteries are kept at a safe operating temperature (-20°C to 50°C), monitored through temperature sensors, and protected from physical damage in case of an accident. Liquid cooling was chosen as the optimal solution due to its reliability, low cost, and safety.
 
 ## Electrical System Overview
